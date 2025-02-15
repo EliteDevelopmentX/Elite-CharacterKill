@@ -1,7 +1,7 @@
 # Elite-CharacterKill
 Discord: https://discord.gg/9AG5QuJ3CB
-# Instalation 
-Upload to resources folder
-Check config and edit it if needed
-Add more database tables if needed
-Start it when you need it
+### Installation
+1) Upload to resources folder
+2) Check config and edit it if needed
+3) Add more database tables if needed
+4) Start it when you need it
