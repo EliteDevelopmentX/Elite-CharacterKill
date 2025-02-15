@@ -10,3 +10,5 @@ Discord: https://discord.gg/9AG5QuJ3CB
 ### How to use
 
 Go to ingame f8 or chat and write command /ck [Id]
+
+# WE DO NOT PROVIDE SUPPORT FOR FREE SCRIPTS
